@@ -1,0 +1,6 @@
+{
+  "name": "MathVenture Kids",
+  "description": "Candy Math Playground featuring tactile, screen-free and digital numeracy games: Guess My Number, Card Duel & Target, Race to 100, and 2-Player Battle Arena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
